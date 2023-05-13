@@ -1,6 +1,19 @@
-h1{
-    color: brown;
+.upper-part{
+    background-color: brown;
+}
+.h1-h2{
+    color: white;
+    text-align: center;
 }
 body{
-    background-color: blanchedalmond;
+    background-color:white;
+}
+img{
+    position: relative;
+    border:5px solid black;
+    left: 44%;
+    top: 20px;
+}
+.link{
+    text-align: centers;
 }
